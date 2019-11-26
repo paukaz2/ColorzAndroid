@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">COLORS</string>
+    <string name="pradeti">Start</string>
+    <string name="rezultatai">Results</string>
+    <string name="nustatymai">Settings</string>
+    <string name="spalva">Color</string>
+    <string name="dabar">Now</string>
+    <string name="game_over">Game over</string>
+    <string name="play_again">Play again</string>
+    <string name="menu">Menu</string>
+    <string name="change_game_speed">Change game speed</string>
+    <string name="set_name">Set name</string>
+    <string name="your_name">Your name</string>
+    <string name="game_speed">Game speed</string>
+    <string name="results">Results</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="score">Score</string>
+</resources>

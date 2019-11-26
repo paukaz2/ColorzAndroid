@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="100">
+
+    <TextView
+        android:id="@+id/ID"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_weight="40"
+        android:fontFamily="casual"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/vardas"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_weight="27"
+        android:fontFamily="casual"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/rezultatas"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_weight="33.3"
+        android:fontFamily="casual"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="18sp" />
+
+</LinearLayout>
